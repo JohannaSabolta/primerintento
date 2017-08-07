@@ -1,0 +1,14 @@
+body{
+background-color: rgb(157,113,158);
+font-style: italic;
+font-stretch: extra-expanded;
+}
+
+h1 {
+font-family: 'Indie Flower', cursive;
+
+}
+a {
+  color: black;
+  text-decoration: none;
+}

@@ -1,0 +1,16 @@
+body{
+ text-align: center;
+ background-image: url("im.png");
+ background-size: cover;
+}
+h1{
+  font-family: 'Fredericka the Great', cursive;
+}
+label{
+
+  font-family: 'Fredericka the Great', cursive;
+}
+ h3{
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 14px
+ }

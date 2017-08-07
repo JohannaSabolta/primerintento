@@ -1,0 +1,27 @@
+body{
+ text-align: center;
+ background-image: url("im.png");
+ background-size: cover;
+}
+h1{
+  font-family: 'Mountains of Christmas', cursive;
+}
+h2{
+  font-family: 'Mountains of Christmas', cursive;
+  color: #9935ad;
+}
+h3{
+  font-style: italic;
+  opacity: 0,5
+}
+
+a{
+  color: black;
+  text-decoration: none;
+  font-family: 'Mountains of Christmas', cursive;
+}
+
+label{
+  text-decoration: none;
+  font-family: 'Fredericka the Great', cursive;
+}

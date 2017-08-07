@@ -1,0 +1,40 @@
+body {
+  background-image: url("clase2/img/cool_cat.jpg");
+  font-family: Arial, sans-serif;
+  
+  background-attachment: fixed;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+p {
+  background-color: rgb(152,0,233) ;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  color: rgb(0,0,0);
+  opacity: 0.5;
+}
+
+#no-opaco {
+	opacity: 1;
+}
+
+.fondo-rojo {
+	background-color:red;
+}
+
+.titulo {
+	font-size:40px;
+}
+
+p.fondo-rojo {
+	text-decoration: underline;
+}
+
+li#especial a {
+	text-decoration: none;
+}
